@@ -1,4 +1,4 @@
 WinKeyHook
 ==========
 
-Windows Key Hook Application
+package/Readme.txt を参照
