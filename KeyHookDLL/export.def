@@ -1,0 +1,6 @@
+LIBRARY      "KeyHook"
+
+EXPORTS
+	SetKeyHookListener=SetKeyHookListener
+	GetKeyName=GetKeyName
+	ResetKeyHook=ResetKeyHook
