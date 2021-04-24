@@ -29,3 +29,6 @@ WinKeyHook
 	実行ファイル
 3, KeyHook.dll
 	システムキーイベントのフック用DLL
+
+[開発環境]
+・Visual Studio 2019/Visual C++
